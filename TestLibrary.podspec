@@ -24,7 +24,7 @@ Belajar bikin library semoga bisa, ga perlu lagi susah payah bikin kayak gini
   s.homepage         = 'https://github.com/DioGnDev/TestLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'DioGnDev' => 'guitardio90@gmail.com' }
+  s.author           = { 'DioGnDev' => 'iprabawa9@gmail.com' }
   s.source           = { :git => 'https://github.com/DioGnDev/TestLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
